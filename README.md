@@ -1,0 +1,1 @@
+# godot_vn_text_rough_template
